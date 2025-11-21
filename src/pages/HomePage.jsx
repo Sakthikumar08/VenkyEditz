@@ -11,7 +11,7 @@ const HomePage = () => {
       <HeroSection />
       <ToolsScrollSection />
       <VideoSection />
-      <ShowcaseSection />
+      
     </>
   )
 }

@@ -108,6 +108,13 @@ export const showcaseData = [
     videoPreview: "https://res.cloudinary.com/db2orszux/video/upload/v1763649653/JACK_frjpjo.mp4",
     description: "Dynamic sports highlight reel",
   },
+  {
+    id: 7,
+    title: "New Project Showcase",
+    imageUrl: "/showcase/showcase7.jpg",
+    videoPreview: "https://res.cloudinary.com/db2orszux/video/upload/v1763649653/JACK_frjpjo.mp4",
+    description: "Exciting new project demonstrating advanced editing techniques",
+  },
 ]
 
 export const galleryData = [

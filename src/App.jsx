@@ -10,6 +10,7 @@ import WorkPage from "./pages/WorkPage"
 import GalleryPage from "./pages/GalleryPage"
 import AboutPage from "./pages/AboutPage"
 import ContactPage from "./pages/ContactPage"
+import ProjectsPage from "./pages/ProjectsPage"
 import Footer from "./components/Footer"
 
 function App() {
@@ -47,6 +48,7 @@ function App() {
           <Route path="/gallery" element={<GalleryPage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/projects" element={<ProjectsPage />} />
         </Routes>
       </main>
       <Footer />
